@@ -193,14 +193,6 @@ graph LR
 
 ### JBD Tools Software
 
-<div align="center">
-
-![JBD Tools](https://img.shields.io/badge/Platform-Windows-blue)
-![Protocol](https://img.shields.io/badge/Protocol-UART-orange)
-![Status](https://img.shields.io/badge/Status-Free-green)
-
-</div>
-
 #### Key Features
 
 - 📡 **UART Communication** - Standard serial interface
