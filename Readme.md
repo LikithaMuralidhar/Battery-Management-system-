@@ -2,10 +2,6 @@
 
 **A comprehensive BMS solution for 48V Li-Ion battery packs with real-time monitoring and protection**
 
-</div>
-
----
-
 ## Table of Contents
 
 - [Overview](#-overview)
@@ -456,13 +452,8 @@ Battery-Management-system-/
 │   └── bom/
 │       └── bill_of_materials.csv
 │
-├── software/
-│   ├── jbd-tools/
-│   │   └── configuration_files/
-│   ├── matlab/
-│   │   └── simulation_files/
-│   └── firmware/
-│       └── (firmware)
+├── firmware/
+│       └─ All the programs
 │
 ├── README.md
 ```
