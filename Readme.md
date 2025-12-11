@@ -446,12 +446,7 @@ Battery-Management-system-/
 │   ├── kicad/
 │   │   ├── bms-schematic.kicad_sch
 │   │   ├── bms-pcb.kicad_pcb
-│   │   └── libraries/
-│   ├── gerber/
-│   │   └── manufacturing_files/
-│   └── bom/
-│       └── bill_of_materials.csv
-│
+│       └── libraries/
 ├── firmware/
 │       └─ All the programs
 │
