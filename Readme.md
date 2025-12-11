@@ -18,7 +18,6 @@
 - [Usage](#-usage)
 - [Results](#-results)
 - [Safety](#-safety)
-- [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -443,44 +442,10 @@ Temp_Low = -10°C     # Low temperature limit
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit changes** (`git commit -m 'Add AmazingFeature'`)
-4. **Push to branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Development Setup
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/48v-bms.git
-
-# Navigate to project
-cd 48v-bms
-
-# Open KiCad project
-kicad bms-48v.kicad_pro
-```
-
-### Code of Conduct
-
-- Be respectful and inclusive
-- Provide constructive feedback
-- Focus on improving the project
-- Follow coding standards
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
-48v-bms/
+Battery-Management-system-/
 ├── hardware/
 │   ├── kicad/
 │   │   ├── bms-schematic.kicad_sch
@@ -537,7 +502,5 @@ Academic Year: 2021-2022
 <div align="center">
 
 **Made by BNMIT EEE Department**
-
-[⬆ Back to Top](#-battery-management-system-for-48v-lithium-ion-battery-pack)
 
 </div>
