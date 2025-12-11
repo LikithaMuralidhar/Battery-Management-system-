@@ -1,11 +1,5 @@
 # 🔋 Battery Management System for 48V Lithium-Ion Battery Pack
 
-<div align="center">
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-
 **A comprehensive BMS solution for 48V Li-Ion battery packs with real-time monitoring and protection**
 
 [Features](#-features) •
@@ -609,20 +603,6 @@ Academic Year: 2021-2022
 
 - **Email:** bms-project@bnmit.edu.in
 - **Institution:** BNMIT, Department of EEE
-
-### Support
-
-- 🐛 [Report Bug](https://github.com/yourusername/48v-bms/issues)
-- 💡 [Request Feature](https://github.com/yourusername/48v-bms/issues)
-- 📖 [Documentation](https://github.com/yourusername/48v-bms/wiki)
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/48v-bms&type=Date)](https://star-history.com/#yourusername/48v-bms&Date)
-
----
 
 ## Project Status
 
